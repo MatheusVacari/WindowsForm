@@ -1,0 +1,16 @@
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.frmAjuda.resources
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.fMENU.resources
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.Properties.Resources.resources
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.csproj.GenerateResource.cache
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\bin\Debug\GUTO.exe.config
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\bin\Debug\GUTO.exe
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\bin\Debug\GUTO.pdb
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.exe
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.pdb
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.frmCargos.resources
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.frmClientes.resources
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.frmFuncionarios.resources
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.frmProdutos.resources
+C:\Users\mathe\Desktop\Estudos\GUTO\GUTO\obj\Debug\GUTO.frmSetor.resources
